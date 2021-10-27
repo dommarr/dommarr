@@ -1,7 +1,7 @@
 ### Hi 👋
 
-- 🛠️ I’m currently working on 🌃[AppCity](https://www.appcity.com/), an app store for business software. Do me a favor and leave a review 🙏
-- 🌱 I’m currently learning and using...
+- 🛠️ I’m currently working on 🌃 [AppCity](https://www.appcity.com/), an app store for business software. Do me a favor and leave a review 🙏
+- 🌱 I'm learning and using...
   - NextJS ⏭️
   - Vercel 🔼
   - Supabase ⚡
