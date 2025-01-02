@@ -1,15 +1,3 @@
-### Hi 👋
-
-- 🛠️ I’m currently working on 🌃 [AppCity](https://www.appcity.com/), an app store for business software. Do me a favor and leave a review 🙏
-- 🌱 I'm learning and using...
-  - NextJS ⏭️
-  - Vercel 🔼
-  - Supabase ⚡
-  - Tailwind 🌬️
-  - Algolia 🔎
-- 📫 If you're interested in working on AppCity or with any of these technologies, [email me](mailto:dom.marrone@gmail.com)!
-
-
 <!--
 **dommarr/dommarr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
